@@ -10,6 +10,10 @@
     {
       "key": "i",
       "expiry_date": "2001-10-28"
+    },
+    {
+      "key": "Trial",
+      "expiry_date": "2024-11-1"
     }
   ]
 }
