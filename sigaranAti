@@ -4,10 +4,6 @@
   },
   "Keys": [
     {
-      "key": "Yopi",
-      "expiry_date": "2024-11-02"
-    },
-    {
       "key": "Yopiws",
       "expiry_date": "2099-12-12"
     }
