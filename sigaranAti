@@ -6,6 +6,10 @@
     {
       "key": "Yopiws",
       "expiry_date": "2098-11-22"
+    },
+    {
+      "key": "FREE-1D",
+      "expiry_date": "2025-01-23"
     }
   ]
 }
